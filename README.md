@@ -1,4 +1,4 @@
-# PostgreSQL + Adminer with Docker Compose
+# [DEPRECATED] PostgreSQL + Adminer with Docker Compose
 
 This repository provides a simple Docker Compose setup for running a PostgreSQL database alongside [Adminer](https://www.adminer.org/) — a lightweight database management tool.
 
